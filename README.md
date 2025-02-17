@@ -11,10 +11,10 @@ Accessibility Simulator helps developers and designers understand how their webs
 
 ![Accessibility Simulator in action](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ1NjdqbzVzM25oczM2OW11enVpNHRndjZrbnFraTNtbWd3cDFzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOILlKqLpYFZ8LP6hy/giphy.gif)
 
-✔ Instant Testing: See accessibility issues in seconds<br>
-✔ Real-World Simulation: Experience your site as different users would<br>
-✔ Simple to Use: Test accessibility scenarios with just one click<br>
-✔ Privacy First: No data collection, completely secure
+✅ Instant Testing: See accessibility issues in seconds<br>
+✅ Real-World Simulation: Experience your site as different users would<br>
+✅ Simple to Use: Test accessibility scenarios with just one click<br>
+✅ Privacy First: No data collection, completely secure
 
 
 ### Author
