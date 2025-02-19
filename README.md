@@ -9,7 +9,7 @@ Accessibility Simulator helps developers and designers understand how their webs
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-![Accessibility Simulator in action](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJ1NjdqbzVzM25oczM2OW11enVpNHRndjZrbnFraTNtbWd3cDFzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOILlKqLpYFZ8LP6hy/giphy.gif)
+![Accessibility Simulator in action](https://static.noahbjorner.com/random/ac-github.webp)
 
 ✅ Instant Testing: See accessibility issues in seconds<br>
 ✅ Real-World Simulation: Experience your site as different users would<br>
