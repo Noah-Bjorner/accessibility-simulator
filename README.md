@@ -2,7 +2,7 @@
 
 Accessibility Simulator helps developers and designers understand how their websites appear to users with different accessibility needs through real-time simulation.
 
-📌 **Use For Free:** [Chrome Web Store](https://xxx)
+📌 **Use For Free:** [Chrome Web Store](https://chromewebstore.google.com/detail/accessibility-simulator/lcokiecipdfmpdccljcndmnhhbdeelkf)
 
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
