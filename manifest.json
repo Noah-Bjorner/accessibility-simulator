@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Accessibility Simulator",
-  "version": "1.0.2",
-  "description": "Simulate accessibility scenarios to test and improve your website.",
+  "version": "1.0.3",
+  "description": "See your site through the eyes of your users to find accessibility issues.",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
